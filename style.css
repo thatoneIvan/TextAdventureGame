@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'League Gothic', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    border: 28px;color:rgb(237, 241, 15)
+}
+* {
+    background-color: rgb(33, 219, 80)
+}
+h2{
+    font-size: 205px;
+    color: aliceblue;
+}
